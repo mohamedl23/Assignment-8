@@ -1,0 +1,21 @@
+.head{
+    text-align: center;
+    font-size: 40px;
+}
+.head h1{
+    font-weight: bolder;
+}
+.head h5{
+    font-weight: 400;
+}
+.head button{
+    padding: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:blue ;
+    color: white;
+    transition: all .5s;
+}
+.head button:hover{
+    background-color:green ;
+}
